@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\task\mewq\mewq\bin\Debug\mewq.exe.config
+C:\Users\User\Desktop\task\mewq\mewq\bin\Debug\mewq.exe
+C:\Users\User\Desktop\task\mewq\mewq\bin\Debug\mewq.pdb
+C:\Users\User\Desktop\task\mewq\mewq\obj\Debug\mewq.csprojAssemblyReference.cache
+C:\Users\User\Desktop\task\mewq\mewq\obj\Debug\mewq.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\task\mewq\mewq\obj\Debug\mewq.exe
+C:\Users\User\Desktop\task\mewq\mewq\obj\Debug\mewq.pdb
